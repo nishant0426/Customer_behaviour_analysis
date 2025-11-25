@@ -60,7 +60,7 @@ The goal is to uncover valuable business insights and communicate them effective
   - Profit and revenue comparisons  
   - KPIs and filters for interactivity  
 
-### 6. **Report and Presentation (Gamma)**  
+### 6. **Report**  
 - Created an interactive report summarizing key findings.  
 - Highlighted insights, visuals, and recommendations.  
 
