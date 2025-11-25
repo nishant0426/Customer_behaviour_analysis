@@ -25,6 +25,9 @@ The goal is to uncover valuable business insights and communicate them effective
 | Reporting | Gamma App |
 | Others | Excel (for initial checks) |
 
+<img width="4872" height="2656" alt="image" src="https://github.com/user-attachments/assets/3f625657-f81f-465a-831a-3c8331081446" />
+
+
 ---
 
 ## ⚙️ Project Steps  
