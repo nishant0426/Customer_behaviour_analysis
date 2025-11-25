@@ -22,7 +22,8 @@ A data-analytics project that uses Python for EDA, SQL for deeper data queries, 
 5. **Report & Presentation**: Use Gamma to summarise insights, create a slide deck for business stakeholders.
 
 ## Dashboard Preview  
-_(Insert screenshot(s) of the Power BI dashboard here)_
+<img width="1956" height="1070" alt="Screenshot (160)" src="https://github.com/user-attachments/assets/884ae493-070e-465c-9c52-9ddd85f61243" />
+
 
 ## Key Results & Insights  
 - Region X contributed to 35% of revenue.  
@@ -44,8 +45,4 @@ _(Insert screenshot(s) of the Power BI dashboard here)_
 6. Load data into Power BI and open the dashboard file.  
 7. Open the Gamma presentation (link or file) for the final report.
 
-## Contact  
-**Author**: Nishant  
-**LinkedIn**: [Your LinkedIn Profile]  
-**Email**: your.email@example.com  
 
