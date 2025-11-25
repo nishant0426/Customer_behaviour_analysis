@@ -64,9 +64,8 @@ The goal is to uncover valuable business insights and communicate them effective
 ---
 
 ## 📈 Dashboard Preview  
-*(Insert Power BI dashboard screenshot here)*  
+<img width="1956" height="1070" alt="Screenshot (160)" src="https://github.com/user-attachments/assets/fc7a32bc-2ccb-415e-9999-dcc279a54594" />
 
-> Example: The dashboard visualizes sales trends, top products, regional insights, and key KPIs for management reporting.
 
 ---
 
