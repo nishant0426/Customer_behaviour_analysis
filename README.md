@@ -1,94 +1,51 @@
-# 📊 Customer Behaviour Data Analysis Project
+# Customer Behaviour Analysis
 
-## 📝 Overview  
-This project showcases a complete **Data Analytics workflow** — from loading raw data and performing **Exploratory Data Analysis (EDA)** in Python, to cleaning data, executing **SQL queries**, building a **Power BI dashboard**, and presenting insights through **Gamma**.  
+## Overview  
+A data-analytics project that uses Python for EDA, SQL for deeper data queries, then builds an interactive Power BI dashboard and produces a report + PPT to tell the story.
 
-The goal is to uncover valuable business insights and communicate them effectively through data visualization and storytelling.
+## Dataset  
+- Name: [e.g., Online Retail Dataset]  
+- Description: Data on customer purchases, segments, regions, product categories.    
 
----
+## Tools & Technologies  
+- Python (Pandas, NumPy, Matplotlib, Seaborn)  
+- SQL (MySQL / PostgreSQL / SQL Server)  
+- Power BI  
+- Gamma (for interactive report + PPT)  
+- GitHub (version control)  
 
-## 📂 Dataset  
-- **Name:** [Dataset Name]  
-- **Source:** [Kaggle / Internal / CSV File]  
-- **Size:** [e.g., 10,000 rows × 12 columns]  
-- **Description:** The dataset includes fields such as *Date, Product, Region, Sales, Profit,* and *Customer Segment*.
+## Steps  
+1. **Data Loading & EDA**: Import data in Python, check structure, distributions, missing values.  
+2. **Data Cleaning**: Handle nulls, duplicates, convert types, create calculated columns.  
+3. **SQL Analysis**: Load cleaned data into SQL DB and run queries (e.g., top customers, churn risk, seasonal patterns).  
+4. **Dashboard**: Build Power BI dashboard visualizing key metrics: sales by segment, retention rates, region-wise behaviour.  
+5. **Report & Presentation**: Use Gamma to summarise insights, create a slide deck for business stakeholders.
 
----
+## Dashboard Preview  
+_(Insert screenshot(s) of the Power BI dashboard here)_
 
-## 🧰 Tools and Technologies  
+## Key Results & Insights  
+- Region X contributed to 35% of revenue.  
+- Customer segment “Loyal” had churn rate ≈ 4% vs “New” at ≈ 12%.  
+- Seasonal spike in Q4 purchases, use this to adjust marketing calendar.  
+- Recommendation: Increase retention efforts in segment “Y”, and focus on upselling in region “Z”.
 
-| Category | Tools Used |
-|-----------|-------------|
-| Programming | Python (Pandas, NumPy, Matplotlib, Seaborn) |
-| Database | MySQL / PostgreSQL / SQL Server |
-| Visualization | Power BI |
-| Reporting | Gamma App |
-| Others | Excel (for initial checks) |
-
-<img width="4872" height="2656" alt="image" src="https://github.com/user-attachments/assets/3f625657-f81f-465a-831a-3c8331081446" />
-
-
----
-
-## ⚙️ Project Steps  
-
-### 1. **Data Loading**  
-- Loaded dataset using **Pandas** in Python.  
-- Checked data types, column names, and structure.  
-
-### 2. **Exploratory Data Analysis (EDA)**  
-- Used **describe(), info()** to understand data.  
-- Visualized distributions, correlations, and outliers using **Seaborn** and **Matplotlib**.  
-
-### 3. **Data Cleaning**  
-- Removed duplicates and handled missing values.  
-- Fixed incorrect data types and standardized date formats.  
-- Created new calculated columns for better insights.  
-
-### 4. **SQL Analysis**  
-- Imported cleaned data into **MySQL/PostgreSQL/SQL Server**.  
-- Executed analytical queries such as:  
-  - Top-performing products or regions  
-  - Monthly and yearly sales growth  
-  - Profitability by customer segment  
-
-### 5. **Power BI Dashboard**  
-- Connected SQL data to **Power BI**.  
-- Designed visuals for:  
-  - Sales trends  
-  - Product and regional performance  
-  - Profit and revenue comparisons  
-  - KPIs and filters for interactivity  
-
-### 6. **Report**  
-- Created an interactive report summarizing key findings.  
-- Highlighted insights, visuals, and recommendations.  
-
----
-
-## 📈 Dashboard Preview  
-<img width="1956" height="1070" alt="Screenshot (160)" src="https://github.com/user-attachments/assets/fc7a32bc-2ccb-415e-9999-dcc279a54594" />
-
-
----
-
-## 🧩 Results & Insights  
-- Identified **top 3 revenue-generating regions**.  
-- Found **seasonal patterns** in sales and profit.  
-- Highlighted **customer segments** contributing most to profit.  
-- Provided **actionable recommendations** for improving performance.
-
----
-
-## ▶️ How to Run  
-
+## How to Run  
 ### Prerequisites  
 - Python 3.x  
-- MySQL/PostgreSQL/SQL Server  
+- Access to MySQL/PostgreSQL/SQL Server  
 - Power BI Desktop  
-
 ### Steps  
-1. **Clone the repository:**  
-   ```bash
-   git clone https://github.com/yourusername/data-analytics-project.git
-   cd data-analytics-project
+1. Clone repo: `git clone https://github.com/nishant0426/Customer_behaviour_analysis.git`  
+2. Navigate into folder: `cd Customer_behaviour_analysis`  
+3. Install dependencies: `pip install -r requirements.txt`  
+4. Run Python scripts: `python data_cleaning_and_eda.py`  
+5. Import cleaned data into your SQL database.  
+6. Load data into Power BI and open the dashboard file.  
+7. Open the Gamma presentation (link or file) for the final report.
+
+## Contact  
+**Author**: Nishant  
+**LinkedIn**: [Your LinkedIn Profile]  
+**Email**: your.email@example.com  
+
